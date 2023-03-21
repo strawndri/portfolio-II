@@ -29,7 +29,7 @@ Site desenvolvido durante o curso [HTML e CSS: Classes, posicionamento e Flexbox
 - Uso de classe, um seletor especial muito comum na web;
 - O que é e como utilizar **Flexbox** para manipular os elementos na tela;
 - Como estilizar textos alterando sua cor, tamanho, tipografia, peso etc;
-- Como organizar elementos na tela com Gap.
+- Como organizar elementos na tela com `gap`.
 
 ## Funcionalidades
 - Visualizar informações sobre mim;
