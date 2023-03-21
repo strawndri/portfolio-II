@@ -1,4 +1,4 @@
-<h1 align="center" Portfólio </h1>
+<h1 align="center"> 👩‍💻 Portfólio 👩‍💻</h1>
 
 <p align="center">
   <img src="https://i.imgur.com/RagEXiN.png" alt='Banner. Imagem com fundo cor-de-rosa com uma borda cinza escuro em seu entorno. Ao centro, há um retângulo cinza escuro com o texto: "HTML e CSS: Classes, posicionamento e Flexbox". Ao lado esquerdo desse retângulo, há um ícone com o texto "CSS" e uma imagem representativa da linguagem CSS em azul, no centro dela há o número três. Ao lado direito do retângulo, há um ícone com o texto "HTML" e uma imagem representativa da linguagem HTML em alaranjado, no centro dela há o número cinco. Abaixo do retângulo cinza, há um retângulo menor cor-de-rosa, nele está escrito "Porfólio".' />
@@ -26,10 +26,14 @@
 Site desenvolvido durante o curso [HTML e CSS: Classes, posicionamento e Flexbox](https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox), na plataforma [Alura](https://www.alura.com.br/), o qual foi ministrado pelos instrutores [Guilherme Lima](https://www.linkedin.com/in/guilherme-lima-458925178/) e [Rafaella Ballerini](https://www.linkedin.com/in/rafaella-ballerini-45875016a/?originalSubdomain=br). O objetivo foi consolidar conhecimentos em Front-end, sobretudo de HTML e CSS.
 
 ## Conhecimentos adquiridos
-
+- Uso de classe, um seletor especial muito comum na web;
+- O que é e como utilizar **Flexbox** para manipular os elementos na tela;
+- Como estilizar textos alterando sua cor, tamanho, tipografia, peso etc;
+- Como organizar elementos na tela com Gap.
 
 ## Funcionalidades
-
+- Visualizar informações sobre mim;
+- Acessar minhas redes sociais: Github e Linkedin.
 
 ## Como executar e visualizar
 
